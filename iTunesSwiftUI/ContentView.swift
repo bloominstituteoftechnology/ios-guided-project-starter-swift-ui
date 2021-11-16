@@ -3,7 +3,7 @@
 //  iTunesSwiftUI
 //
 //  Created by Fernando Olivares on 28/03/20.
-//  Copyright © 2020 Lambda School. All rights reserved.
+//  Copyright © 2020 BloomTech. All rights reserved.
 //
 
 import SwiftUI
